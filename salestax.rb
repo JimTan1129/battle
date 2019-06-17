@@ -1,4 +1,4 @@
-def sales_tax()
+ def sales_tax()
   puts "How much money do you got?"
   x = gets.chomp
   if x =~ /\D/
